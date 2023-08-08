@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrés Jimenez</h1>
+<h1 align="center">Hi 👋, I'm Andrés León Jiménez</h1>
 <h3 align="center">I am a 19-year-old second-year Software Engineering student currently enrolled at Universidad Fidelitas. I have a passion for technology and programming, which is why I chose this field of study.</h3>
 
 <h3 align="center">🌱 I’m currently learning <strong>JavaScript, Java, Oracle, PHP, HTML, and CSS</strong></h3>
